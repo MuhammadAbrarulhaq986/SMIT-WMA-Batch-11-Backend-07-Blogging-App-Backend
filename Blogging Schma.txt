@@ -1,0 +1,25 @@
+username: ulhaqabrar106
+password: SyqxH8MoC434eFit
+
+
+
+
+users: {
+username
+Full name
+email
+password 
+profile image
+timestamp
+bookmark: []
+
+(bcrypt , jwt, multer, cloudinary)
+   } 
+
+blogs: {                                                                                                                                     
+title
+description
+postedBy
+timestamp
+blog-image
+}
